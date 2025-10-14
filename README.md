@@ -6,7 +6,7 @@ Börja med att träna på CSS Selektorer genom att spela [CSS Selector Game](htt
 
 ## Övning 2 - CSS Selektorer 2
 
-Hoppa in i mappen [CSS Selector Exercise]('css-selector-exercise')
+Hoppa in i mappen [CSS Selector Exercise]('./css-selector-exercise')
 
 ## Övning 3 - Styla en hemsida
 
