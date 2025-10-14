@@ -10,8 +10,8 @@ Hoppa in i mappen [CSS Selector Exercise]('./css-selector-exercise/')
 
 ## Övning 3 - Styla en hemsida
 
-Välj ut en av övning 8 - 10 från [HTML Bootcampet](https://github.com/fu-html-css-fe24/exercise-html-bootcamp) som du redan löst, och styla din html efter tycke och smak.
+Välj ut en av övning 8 - 10 från [HTML Bootcampet](https://github.com/fu-html-css-fe25/week-42-exercise-html-bootcamp) som du redan löst, och styla din html efter tycke och smak.
 
-## Övning 4 - Figma Exercise
+## Övning 4 - Utmaning!
 
-Försök återskapa följande [Figmaskiss]() så nära mockupen som möjligt. Du hittar HTML-koden samt bakgrundsbilden i mappen [Figma Exercise]('./figma-exercise/'). Om du vill kan du även försöka återskapa HTML:en själv. Tips! Läs på om CSS regeln **background-image**, detta är ett mycket bättre sätt att stoppa in bakgrundsbilder än med hjälpa av en img-tagg.
+Försök återskapa följande [Figmaskiss](https://www.figma.com/design/Kox5hlXEK8TDgnhpRXOYeM/mockup?node-id=1-2&t=58lxBzJqIc0zQ7we-0) så nära mockupen som möjligt. Du hittar HTML-koden samt bakgrundsbilden i mappen [Figma Exercise]('./figma-exercise/'). Om du vill kan du även försöka återskapa HTML:en själv. Tips! Läs på om CSS regeln **background-image**, detta är ett mycket bättre sätt att stoppa in bakgrundsbilder än med hjälpa av en img-tagg.
